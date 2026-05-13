@@ -1,7 +1,37 @@
-# add colour to the background
 body {
-    background-color: #f0f0f0; /* Light grey background */
-    font-family: Arial, sans-serif; /* Set a clean font */
+    background-color: #000000;
+    font-family: Arial, sans-serif;
+    text-align: center;
     margin: 0;
     padding: 20px;
-}   
+}
+
+h1 {
+    color: #f5f0f0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 40px;
+}
+
+h2 {
+    color: #847272;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 24px;
+}
+
+p {
+    color: #f5f0f0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    line-height: 1.6; /* improves readability */
+}
+
+img {
+    width: 300px;
+    margin: 10px;
+}
+
+video {
+    margin-top: 20px;
+}
