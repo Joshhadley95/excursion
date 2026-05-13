@@ -1,0 +1,7 @@
+# add colour to the background
+body {
+    background-color: #f0f0f0; /* Light grey background */
+    font-family: Arial, sans-serif; /* Set a clean font */
+    margin: 0;
+    padding: 20px;
+}   
