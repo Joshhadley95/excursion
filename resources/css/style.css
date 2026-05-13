@@ -27,15 +27,6 @@ p {
     line-height: 1.6; /* improves readability */
 }
 
-img {
-    width: 300px;
-    margin: 10px;
-}
-
-video {
-    margin-top: 20px;
-}
-
 .footer {
   text-align: right;
 }
